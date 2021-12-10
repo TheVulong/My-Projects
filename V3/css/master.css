@@ -25,6 +25,7 @@ a:link {
   padding: 8px 15px;
   border-radius: 3px;
   text-decoration: none;
+  margin: 0 5px;
 }
 a:visited {
   color: #dce0e6;
@@ -84,7 +85,4 @@ a:active {
   top: 230px;
   font-size: 24px;
   margin: 0;
-}
-
-.middle-container {
 }
